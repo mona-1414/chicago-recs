@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented required features:
 
-<img src='[img]https://i.imgur.com/PZ3yKOZ.gif[/img]' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/mona-1414/chicago-recs/blob/main/project-01.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with LiceCap
